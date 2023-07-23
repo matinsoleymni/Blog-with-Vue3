@@ -4,6 +4,7 @@
       <div class="title">
         <h1>Welcome To Blog :)</h1>
       </div>
+        
     </main>
   </div>
 </template>
