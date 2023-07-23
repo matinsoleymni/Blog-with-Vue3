@@ -4,7 +4,7 @@
       <h1 class="orange">About Matin Soleymani</h1>
     </div>
     <div class="aboutBody">
-      <p>Matin Soleymani Fullstack web Developer</p>
+      <p class="t-align-center">Matin Soleymani Fullstack web Developer</p>
     </div>
     <div class="github">
       <a href="https://github.com/matinsoleymni">
@@ -39,6 +39,12 @@
     .github {
       text-align: center;
       margin: 40px 0px;
+      
+      a {
+        img {
+          width: 85%;
+        }
+      }
     }
   }
 </style>

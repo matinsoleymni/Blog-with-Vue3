@@ -24,7 +24,7 @@
         margin-bottom: 50px;
         .right {
             img {
-                width: 75px;
+                width: 50px;
                 transform: rotate(180deg);
                 transition: all .5s;
                 
@@ -38,7 +38,7 @@
             ul {
                 gap: 25px;
                 li {
-                    font-size: 24px;
+                    font-size: 20px;
                 }
                 &hover {
                     transform: rotate(15deg);
