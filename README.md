@@ -1,24 +1,7 @@
-# blog
+# Blog with Vue.JS V.3
 
-## Project setup
-```
-npm install
-```
+<p style="text-align:center; font-size:24px; color: purple;"> Zmat24</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p>Header and Footer in `components` Folder</p>
+<p>Pages in `view` Folder</p>
+<p>routes in `router` Folder in index.js</p>
