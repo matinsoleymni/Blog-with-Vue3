@@ -1,5 +1,5 @@
 <template>
-    <p>Zmat241 | FreeIran | Urmia - Mashhad</p>
+    <p>Zmat2411 | FreeIran | Urmia - Mashhad</p>
 </template>
 
 <script>
@@ -10,10 +10,9 @@
 
 <style scoped>
     p {
-        width: 99.3%;
+        width: 100%;
         border-radius: 50px;
         text-align: center;
-        padding: 5px;
         background-color: antiquewhite;
         position: absolute;
         bottom: 0;
